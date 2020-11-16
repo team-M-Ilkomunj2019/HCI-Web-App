@@ -1,9 +1,11 @@
-# TEAM M
+# Assignment 3 HCI
+
+## TEAM M
 1. Andira Azzahra (1313619006)
 2. Cicely Patricia Sinaulan (1313619007)
 3. I Gede Eka Pahlguna (1313619029)
 
-#PROLOG
+## PROLOG
 Di zaman sekarang yaitu zaman  yang serba digital menggunakan media sosial  setiap hari adalah suatu kebutuhan bagi banyak orang.
 semakin pesatnya penggunaan media sosial dan semakin canggihnya teknologi, memberikan kontribusi yang nyata terhadap makin 
 mudahnya penyebaran tentang berbagai hal di media sosial salah satu contohnya adalah tentang istilah-istilah yang mereka gunakan. 
