@@ -26,14 +26,14 @@ fenomena ini erat kaitannya dengan para penguna media sosial yang cenderung suka
 di media sosial sehingga akhirnya istilah atau kata ytersebut menjadi overuse dan akhirnya kata tersebut maknanya menjadi
 hilang atau bergeser dari arti awalnya.
 
-<h2> Memperkenalkan Social Media's Happening Term </h2>
+## Memperkenalkan Social Media's Happening Term
 
 Social Media’s Happening Term adalah website untuk memberikan definisi  dan pemahaman yang sesungguhnya mengenai istilah-istilah
 yang sedang terkenal atau sering digunakan kepada para pengguna media sosial yang sering kali menyalah artikan sebuah kata ataupun 
 istilah sehingga kata atau istilah tersebut kehilangan makna yang sesungguhnya dan disalahgunakan. 
   
   
-## HASIL SURVEI BERDASARKAN KUESIONER
+# Hasil Survei Berdasarkan Kuesioner
 
 <p><img src="1.png"></p>
 <p><img src="2.png"></p>
@@ -46,7 +46,7 @@ istilah sehingga kata atau istilah tersebut kehilangan makna yang sesungguhnya d
 <p><img src="9.png"></p>
 <p><img src="10.png"></p>
 
-## ACTIVITY DIAGRAM
+# Activity Diagram
 
 <p><img src="pertama.png"></p>
 <p><img src="kedua.png"></p>
