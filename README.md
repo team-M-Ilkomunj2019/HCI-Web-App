@@ -26,7 +26,7 @@ fenomena ini erat kaitannya dengan para penguna media sosial yang cenderung suka
 di media sosial sehingga akhirnya istilah atau kata ytersebut menjadi overuse dan akhirnya kata tersebut maknanya menjadi
 hilang atau bergeser dari arti awalnya.
 
-<h2> Memperkenalkan Social Media's Happening Term <h2>
+<h2> Memperkenalkan Social Media's Happening Term </h2>
 
 Social Media’s Happening Term adalah website untuk memberikan definisi  dan pemahaman yang sesungguhnya mengenai istilah-istilah
 yang sedang terkenal atau sering digunakan kepada para pengguna media sosial yang sering kali menyalah artikan sebuah kata ataupun 
@@ -34,6 +34,16 @@ istilah sehingga kata atau istilah tersebut kehilangan makna yang sesungguhnya d
   
   
 ## HASIL ANALISIS KUESIONER
+
+##ACTIVITY DIAGRAM
+
+Setelah menganalisis dari hasil kuesioner, kami langsung membuat activity diagram dan juga merancang desain untuk website kami. Berikut adalah activity diagramnya:
+<p><img src="Desktop - 1.png"></p>
+<p><img src="iPhone 11 Pro Max - 1.png"></p>
+<p><img src="iPhone 11 Pro Max -2.png"></p>
+<p><img src="Desktop - 2.png"></p>
+
+
 
 
 
