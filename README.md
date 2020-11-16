@@ -27,6 +27,7 @@ di media sosial sehingga akhirnya istilah atau kata ytersebut menjadi overuse da
 hilang atau bergeser dari arti awalnya.
 
 <h2> Memperkenalkan Social Media's Happening Term <h2>
+
 Social Media’s Happening Term adalah website untuk memberikan definisi  dan pemahaman yang sesungguhnya mengenai istilah-istilah
 yang sedang terkenal atau sering digunakan kepada para pengguna media sosial yang sering kali menyalah artikan sebuah kata ataupun 
 istilah sehingga kata atau istilah tersebut kehilangan makna yang sesungguhnya dan disalahgunakan. 
