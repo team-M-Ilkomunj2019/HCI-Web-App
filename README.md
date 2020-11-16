@@ -35,13 +35,13 @@ istilah sehingga kata atau istilah tersebut kehilangan makna yang sesungguhnya d
   
 ## HASIL ANALISIS KUESIONER
 
-##ACTIVITY DIAGRAM
+## ACTIVITY DIAGRAM
 
 Setelah menganalisis dari hasil kuesioner, kami langsung membuat activity diagram dan juga merancang desain untuk website kami. Berikut adalah activity diagramnya:
-<p><img src="Desktop - 1.png"></p>
-<p><img src="iPhone 11 Pro Max - 1.png"></p>
-<p><img src="iPhone 11 Pro Max -2.png"></p>
-<p><img src="Desktop - 2.png"></p>
+<p><img src="pertama.png"></p>
+<p><img src="kedua.png"></p>
+<p><img src="ketiga.png"></p>
+<p><img src="keempat.png"></p>
 
 
 
