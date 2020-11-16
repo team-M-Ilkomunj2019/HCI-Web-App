@@ -33,7 +33,7 @@ yang sedang terkenal atau sering digunakan kepada para pengguna media sosial yan
 istilah sehingga kata atau istilah tersebut kehilangan makna yang sesungguhnya dan disalahgunakan. 
   
   
-## HASIL ANALISIS KUESIONER
+## HASIL SURVEI BERDASARKAN KUESIONER
 
 <p><img src="1.png"></p>
 <p><img src="2.png"></p>
