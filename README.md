@@ -22,11 +22,11 @@ di media sosial dan terlalu cepat menarik kesimpulan dalam mengartikan istilah-i
 <p><img src="Screenshot.png"></p>
 
 <h3> Mengapa demikian? </h3>
-Fenomena ini erat kaitannya dengan para penguna media sosial yang cenderung suka memakai istilah atau kata yang lagi “in”
+fenomena ini erat kaitannya dengan para penguna media sosial yang cenderung suka memakai istilah atau kata yang lagi “in”
 di media sosial sehingga akhirnya istilah atau kata ytersebut menjadi overuse dan akhirnya kata tersebut maknanya menjadi
 hilang atau bergeser dari arti awalnya.
 
-<h2> Memperkenalkan Social Media's Happening Term </h2>
+<h2> Memperkenalkan Social Media's Happening Term <h2>
 
 Social Media’s Happening Term adalah website untuk memberikan definisi  dan pemahaman yang sesungguhnya mengenai istilah-istilah
 yang sedang terkenal atau sering digunakan kepada para pengguna media sosial yang sering kali menyalah artikan sebuah kata ataupun 
@@ -35,17 +35,13 @@ istilah sehingga kata atau istilah tersebut kehilangan makna yang sesungguhnya d
   
 ## HASIL ANALISIS KUESIONER
 
-## ACTIVITY DIAGRAM
-
-Setelah menganalisis dari hasil kuesioner, kami langsung membuat activity diagram dan juga merancang desain untuk website kami. Berikut adalah activity diagramnya:
-<p><img src="pertama.png"></p>
-<p><img src="kedua.png"></p>
-<p><img src="ketiga.png"></p>
-<p><img src="keempat.png"></p>
-
-
-
-
-
-  
- 
+<p><img src="1.png"></p>
+<p><img src="2.png"></p>
+<p><img src="3.png"></p>
+<p><img src="4.png"></p>
+<p><img src="5.png"></p>
+<p><img src="6.png"> </p>
+<p><img src="7.png"></p>
+<p><img src="8.png"></p>
+<p><img src="9.png"></p>
+<p><img src="10.png"></p>
