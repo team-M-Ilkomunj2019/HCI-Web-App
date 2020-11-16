@@ -33,7 +33,7 @@ yang sedang terkenal atau sering digunakan kepada para pengguna media sosial yan
 istilah sehingga kata atau istilah tersebut kehilangan makna yang sesungguhnya dan disalahgunakan. 
   
   
-# Hasil Survei Berdasarkan Kuesioner
+<h3> Hasil Survei Berdasarkan Kuesioner </h3>
 
 <p><img src="1.png"></p>
 <p><img src="2.png"></p>
@@ -46,7 +46,7 @@ istilah sehingga kata atau istilah tersebut kehilangan makna yang sesungguhnya d
 <p><img src="9.png"></p>
 <p><img src="10.png"></p>
 
-# Activity Diagram
+<h3> Activity Diagram </h3>
 
 <p><img src="pertama.png"></p>
 <p><img src="kedua.png"></p>
