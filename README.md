@@ -45,3 +45,10 @@ istilah sehingga kata atau istilah tersebut kehilangan makna yang sesungguhnya d
 <p><img src="8.png"></p>
 <p><img src="9.png"></p>
 <p><img src="10.png"></p>
+
+## ACTIVITY DIAGRAM
+
+<p><img src="pertama.png"></p>
+<p><img src="kedua.png"></p>
+<p><img src="ketiga.png"></p>
+<p><img src="keempat.png"></p>
