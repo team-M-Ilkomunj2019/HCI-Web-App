@@ -12,4 +12,9 @@ mudahnya penyebaran tentang berbagai hal di media sosial salah satu contohnya ad
 istilah atau kata-kata adalah hal yang berperan penting di media sosial, dengan istilah dan kata-kata, kita dapat berkomunikasi dan 
 beraktivitas di media sosial. Namun sayangnya, banyak sekali pengguna media sosial yang kerap salah dalam menngunakan istilah 
 di media sosial dan terlalu cepat menarik kesimpulan dalam mengartikan istilah-istilah tersebut.
-<img src="medsos_03.jpg">
+<p><img src="medsos_03.jpg"><p>
+  
+  
+<h3> Contoh Istilah Asing dan Kesalahan Pemahaman Arti dari Istilah Tersebut </h3>
+<p><img src="EeFJ_89VoAIlxCr.jpg"></p>
+ 
