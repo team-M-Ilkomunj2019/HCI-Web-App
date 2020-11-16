@@ -22,7 +22,7 @@ di media sosial dan terlalu cepat menarik kesimpulan dalam mengartikan istilah-i
 <p><img src="Screenshot.png"></p>
 
 <h3> Mengapa demikian? </h3>
-fenomena ini erat kaitannya dengan para penguna media sosial yang cenderung suka memakai istilah atau kata yang lagi “in”
+Fenomena ini erat kaitannya dengan para penguna media sosial yang cenderung suka memakai istilah atau kata yang lagi “in”
 di media sosial sehingga akhirnya istilah atau kata ytersebut menjadi overuse dan akhirnya kata tersebut maknanya menjadi
 hilang atau bergeser dari arti awalnya.
 
