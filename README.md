@@ -40,15 +40,16 @@ tentang keinginan user untuk fitur di  web Social Media's Happening Term ini seh
 <p><img src="keempat.png"></p>
 
 <h3>Interaction Control dengan Login</h3>
+<img src="login.png">
 
 <h3>Mock Up Design Web Social Media's Happening Term</h3>
-<p><a href="https://www.figma.com/file/FKZLBoSpiafk9Tgs02jps6/Social-Media's-Happening-Term?node-id=79%3A34">Klik di sini untuk melihat mock up desain web</a></p>
+<p><a href="https://www.figma.com/file/FKZLBoSpiafk9Tgs02jps6/Social-Media's-Happening-Term?node-id=79%3A34">→ Klik di sini untuk melihat mock up desain web</a></p>
   
 ## Second Phase Requirement Gathering
 Setelah kami selesai membuat desain berdasarkan keinginan user di kuesioner pertama dan mengobservasinya, kami mengundang para user yang telah mengisi kuesioner pertama 
 melalui email untuk menghadiri pertemuan yang membahas desain dan fitur dari web kami pada hari senin, 16 November 2020 jam 20.00 WIB. Kami menjelaskan secara rinci alur
 interaksi web kami dan fitur-fitur yang tersedia dan diakhir pertemuan kami meminta masukan secara langsung dalam pertemuan tersebut dengan membuka sesi tanya jawab dan selanjutnya kami memberikan kuesioner kedua untuk memastikan apakah desain dan fitur-fitur yang telah kami buat sesuai dengan kebutuhan user.
-<p><a href="https://youtu.be/LtsBEKClP-M">→ klik di sini untuk melihat rekaman pertemuan yang membahas desain dan fitur web kami</a></p>
+<p><a href="https://youtu.be/LtsBEKClP-M">→ Klik di sini untuk melihat rekaman pertemuan yang membahas desain dan fitur web kami</a></p>
 
 ## Report Writing
 Setelah melakukan metode penelitian dengan melalui 3 tahapan di atas, kami membuat sebuah report writing yang menyimpulkan semua yang telah kami lakukan dan amati dalam proses sampai final perancangan web Social Media's Happening Term. 
