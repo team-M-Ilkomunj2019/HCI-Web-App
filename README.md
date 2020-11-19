@@ -30,6 +30,18 @@ tentang keinginan user untuk fitur di  web Social Media's Happening Term ini seh
 <p>○ Menambahkan kata asing menjadi favorit supaya dapat tersimpan ke fitur "favorit saya"</p>
 <p>○ Menggunakan fitur pemberitahuan untuk mendapatkan update data dari web kami </p>
 
+## Design
+
+<h3> Activity Diagram </h3>
+
+<p><img src="pertama.png"></p>
+<p><img src="kedua.png"></p>
+<p><img src="ketiga.png"></p>
+<p><img src="keempat.png"></p>
+
+<p> </p>
+
+
 
 
 
@@ -46,11 +58,6 @@ Setelah melakukan metode penelitian dengan melalui 3 tahapan di atas, kami membu
 
 
 
-<h3> Activity Diagram </h3>
 
-<p><img src="pertama.png"></p>
-<p><img src="kedua.png"></p>
-<p><img src="ketiga.png"></p>
-<p><img src="keempat.png"></p>
 
 
