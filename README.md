@@ -41,7 +41,8 @@ tentang keinginan user untuk fitur di  web Social Media's Happening Term ini seh
 
 <p> </p>
 
-
+<h3>Interaction Control Dengan Login</h3>
+<p><img src="Social_Media's_ Happening_Term.png></p>
 
 
 
