@@ -61,7 +61,7 @@ interaksi web kami dan fitur-fitur yang tersedia dan diakhir pertemuan kami memi
 
 ## Report Writing
 Setelah melakukan metode penelitian dengan melalui 3 tahapan di atas, kami membuat sebuah report writing yang menyimpulkan semua yang telah kami lakukan dan amati dalam proses sampai final perancangan web Social Media's Happening Term. 
-<a href
+<p><a href="https://github.com/team-M-Ilkomunj2019/HCI-Web-App/blob/main/Final-Report-Team-M.pdf">→ Klik di sini untuk melihat report writting</a></p>
 
 
 
