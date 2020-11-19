@@ -17,7 +17,7 @@ tentang keinginan user untuk fitur di  web Social Media's Happening Term ini seh
 Setelah kami selesai membuat desain berdasarkan keinginan user di kuesioner pertama dan mengobservasinya, kami mengundang para user yang telah mengisi kuesioner pertama 
 melalui email untuk menghadiri pertemuan yang membahas desain dan fitur dari web kami pada hari senin, 16 November 2020 jam 20.00 WIB. Kami menjelaskan secara rinci alur
 interaksi web kami dan fitur-fitur yang tersedia dan diakhir pertemuan kami meminta masukan secara langsung dalam pertemuan tersebut dengan membuka sesi tanya jawab dan selanjutnya kami memberikan kuesioner kedua untuk memastikan apakah desain dan fitur-fitur yang telah kami buat sesuai dengan kebutuhan user.
-<a href="https://youtu.be/LtsBEKClP-M">klik di sini untuk melihat rekaman pertemuan yang membahas desain dan fitur web kami</a>
+<p><a href="https://youtu.be/LtsBEKClP-M">→ klik di sini untuk melihat rekaman pertemuan yang membahas desain dan fitur web kami</a></p>
 
 
 
