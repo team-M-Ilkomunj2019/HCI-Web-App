@@ -13,22 +13,22 @@ Pembuatan Web Social Media's Happening Term ini bertujuan untuk memberikan pemah
 dalam bermedia sosial agar menciptakan kenyamanan antar pengguna media sosial. Setelah membagikan kuesioner dan menobservasinya, kami mendapatkan beberapa kesimpulan
 tentang keinginan user untuk fitur di  web Social Media's Happening Term ini sehingga web tersebut menarik dan berguna untuk dikunjungi.
 
-<h3>Fitur Login</h3>
-○ Daftar dengan email, Facebook atau Twitter
-○ Masuk menggunakan email dan password
-○ Langsung melihat istilah asing yang tersedia di website
-○ Menggunakan fitur filter untuk mengurutkan kata sesuai yang Anda inginkan berdasarkan pilihan yang tersedia
-○ Mencari kata asing yang ingin anda ketahui maknanya
-○ Jika tidak terdapat kata asing yang Anda cari, masukin kata ke box "jadilah kontributor"
-
 <h3>Fitur Tidak Login</h3>
-○ Langsung melihat istilah asing yang tersedia di website
-○ Menggunakan fitur filter untuk mengurutkan kata sesuai yang Anda inginkan berdasarkan pilihan yang tersedia
-○ Mencari kata asing yang ingin anda ketahui maknanya
-○ Jika tidak terdapat kata asing yang Anda cari, masukin kata ke box "jadilah kontributor"
-○ Men-Share kata asing yang ingin Anda share ke berbagai platform yang tersedia
-○ Menambahkan kata asing menjadi favorit supaya dapat tersimpan ke fitur "favorit saya"
-○ Menggunakan fitur pemberitahuan untuk mendapatkan update data dari web kami 
+<p>○ Langsung melihat istilah asing yang tersedia di website</p>
+<p>○ Menggunakan fitur filter untuk mengurutkan kata sesuai yang Anda inginkan berdasarkan pilihan yang tersedia</p>
+<p>○ Mencari kata asing yang ingin anda ketahui maknanya</p>
+<p>○ Jika tidak terdapat kata asing yang Anda cari, masukin kata ke box "jadilah kontributor"</p>
+
+<h3>Fitur Login</h3>
+<p>○ Daftar dengan email, Facebook atau Twitter</p>
+<p>○ Masuk menggunakan email dan password</p>
+<p>○ Langsung melihat istilah asing yang tersedia di website</p>
+<p>○ Menggunakan fitur filter untuk mengurutkan kata sesuai yang Anda inginkan berdasarkan pilihan yang tersedia</p>
+<p>○ Mencari kata asing yang ingin anda ketahui maknanya</p>
+<p>○ Jika tidak terdapat kata asing yang Anda cari, masukin kata ke box "jadilah kontributor"</p>
+<p>○ Men-Share kata asing yang ingin Anda share ke berbagai platform yang tersedia</p>
+<p>○ Menambahkan kata asing menjadi favorit supaya dapat tersimpan ke fitur "favorit saya"</p>
+<p>○ Menggunakan fitur pemberitahuan untuk mendapatkan update data dari web kami </p>
 
 
 
