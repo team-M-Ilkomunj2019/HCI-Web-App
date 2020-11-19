@@ -39,7 +39,8 @@ tentang keinginan user untuk fitur di  web Social Media's Happening Term ini seh
 <p><img src="ketiga.png"></p>
 <p><img src="keempat.png"></p>
 
-<h3>Interaction Control dengan Lofin</h3>
+<h3>Interaction Control dengan Login</h3>
+<p> <img src="Social_Media's_ Happening _Term.png> </p>
 
 
 
