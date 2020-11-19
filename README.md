@@ -40,6 +40,9 @@ tentang keinginan user untuk fitur di  web Social Media's Happening Term ini seh
 <p><img src="keempat.png"></p>
 
 <h3>Interaction Control dengan Lofin</h3>
+
+
+
 ## Second Phase Requirement Gathering
 Setelah kami selesai membuat desain berdasarkan keinginan user di kuesioner pertama dan mengobservasinya, kami mengundang para user yang telah mengisi kuesioner pertama 
 melalui email untuk menghadiri pertemuan yang membahas desain dan fitur dari web kami pada hari senin, 16 November 2020 jam 20.00 WIB. Kami menjelaskan secara rinci alur
