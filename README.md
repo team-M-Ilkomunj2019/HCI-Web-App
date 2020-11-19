@@ -13,6 +13,27 @@ Pembuatan Web Social Media's Happening Term ini bertujuan untuk memberikan pemah
 dalam bermedia sosial agar menciptakan kenyamanan antar pengguna media sosial. Setelah membagikan kuesioner dan menobservasinya, kami mendapatkan beberapa kesimpulan
 tentang keinginan user untuk fitur di  web Social Media's Happening Term ini sehingga web tersebut menarik dan berguna untuk dikunjungi.
 
+<h3>Fitur Login</h3>
+○ Daftar dengan email, Facebook atau Twitter
+○ Masuk menggunakan email dan password
+○ Langsung melihat istilah asing yang tersedia di website
+○ Menggunakan fitur filter untuk mengurutkan kata sesuai yang Anda inginkan berdasarkan pilihan yang tersedia
+○ Mencari kata asing yang ingin anda ketahui maknanya
+○ Jika tidak terdapat kata asing yang Anda cari, masukin kata ke box "jadilah kontributor"
+
+<h3>Fitur Tidak Login</h3>
+○ Langsung melihat istilah asing yang tersedia di website
+○ Menggunakan fitur filter untuk mengurutkan kata sesuai yang Anda inginkan berdasarkan pilihan yang tersedia
+○ Mencari kata asing yang ingin anda ketahui maknanya
+○ Jika tidak terdapat kata asing yang Anda cari, masukin kata ke box "jadilah kontributor"
+○ Men-Share kata asing yang ingin Anda share ke berbagai platform yang tersedia
+○ Menambahkan kata asing menjadi favorit supaya dapat tersimpan ke fitur "favorit saya"
+○ Menggunakan fitur pemberitahuan untuk mendapatkan update data dari web kami 
+
+
+
+
+
 ## Second Phase Requirement Gathering
 Setelah kami selesai membuat desain berdasarkan keinginan user di kuesioner pertama dan mengobservasinya, kami mengundang para user yang telah mengisi kuesioner pertama 
 melalui email untuk menghadiri pertemuan yang membahas desain dan fitur dari web kami pada hari senin, 16 November 2020 jam 20.00 WIB. Kami menjelaskan secara rinci alur
