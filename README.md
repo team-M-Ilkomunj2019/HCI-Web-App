@@ -19,6 +19,9 @@ melalui email untuk menghadiri pertemuan yang membahas desain dan fitur dari web
 interaksi web kami dan fitur-fitur yang tersedia dan diakhir pertemuan kami meminta masukan secara langsung dalam pertemuan tersebut dengan membuka sesi tanya jawab dan selanjutnya kami memberikan kuesioner kedua untuk memastikan apakah desain dan fitur-fitur yang telah kami buat sesuai dengan kebutuhan user.
 <p><a href="https://youtu.be/LtsBEKClP-M">→ klik di sini untuk melihat rekaman pertemuan yang membahas desain dan fitur web kami</a></p>
 
+## Report Writing
+Setelah melakukan metode penelitian dengan melalui 3 tahapan di atas, kami membuat sebuah report writing yang menyimpulkan semua yang telah kami lakukan dan amati dalam proses sampai final perancangan web Social Media's Happening Term. 
+<a href
 
 
 
