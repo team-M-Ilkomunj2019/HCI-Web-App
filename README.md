@@ -1,9 +1,11 @@
-# ASSIGNMENT 3 HCI
+# ASSIGNMENT 3 HUMAN COMPUTER INTERACTION (HCI)
 
 ## TEAM M
 1. Andira Azzahra (1313619006)
 2. Cicely Patricia Sinaulan (1313619007)
 3. I Gede Eka Pahlguna (1313619029)
+
+## First Phase Requirement Gathering
 
 
 <h3> Activity Diagram </h3>
