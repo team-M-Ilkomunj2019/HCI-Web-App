@@ -41,7 +41,9 @@ tentang keinginan user untuk fitur di  web Social Media's Happening Term ini seh
 
 <h3>Interaction Control dengan Login</h3>
 
-
+<h3>Mock Up Design Web Social Media's Happening Term</h3>
+<p><a href="https://www.figma.com/file/FKZLBoSpiafk9Tgs02jps6/Social-Media's-Happening-Term?node-id=79%3A34">Klik di sini untuk melihat mock up desain web</a></p>
+  
 ## Second Phase Requirement Gathering
 Setelah kami selesai membuat desain berdasarkan keinginan user di kuesioner pertama dan mengobservasinya, kami mengundang para user yang telah mengisi kuesioner pertama 
 melalui email untuk menghadiri pertemuan yang membahas desain dan fitur dari web kami pada hari senin, 16 November 2020 jam 20.00 WIB. Kami menjelaskan secara rinci alur
