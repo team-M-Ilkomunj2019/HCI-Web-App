@@ -40,9 +40,7 @@ tentang keinginan user untuk fitur di  web Social Media's Happening Term ini seh
 <p><img src="keempat.png"></p>
 
 <h3>Interaction Control dengan Login</h3>
-<p> <img src="Social_Media's_ Happening _Term.png> </p>
 
-##   
 
 ## Second Phase Requirement Gathering
 Setelah kami selesai membuat desain berdasarkan keinginan user di kuesioner pertama dan mengobservasinya, kami mengundang para user yang telah mengisi kuesioner pertama 
