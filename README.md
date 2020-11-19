@@ -9,7 +9,7 @@
 Social Media's Happening Term merupakan aplikasi berbasis web yang dibuat untuk para pengguna media sosial yang sekadar "ikut-ikutan" menggunakan istilah asing
 yang sedang tren di media sosial tanpa mengetahui makna sebenarnya dari istilah asing tersebut. Dengan itu kami membuat kuesioner yang kami bagikan kepada lebih dari 50 orang yang rentang umurnya 15-30 tahun, yaitu orang-orang yang aktif mengikuti tren di media sosial, untuk mengumpulkan data-data mengenai kebutuhan dan fitur yang mereka harapkan pada web Social Media's Happening Term ini. Di bawah ini adalah hasil kuesioner pertama berupa hasil dari grafik dari google form dan data yang disajikan melalui Microsoft Excel.
 <p><a href="https://github.com/team-M-Ilkomunj2019/HCI-Web-App/tree/main/Hasil_Kuesioner">→ Klik di sini untuk melihat grafik hasil kuesioner 1</a></p>
-<p><a href
+
 
 ## Portofolio
 Pembuatan Web Social Media's Happening Term ini bertujuan untuk memberikan pemahaman yang benar tentang istilah-sitilah asing yang kerap digunakan masyarakat indonesia
