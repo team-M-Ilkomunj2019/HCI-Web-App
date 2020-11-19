@@ -46,7 +46,7 @@ tentang keinginan user untuk fitur di  web Social Media's Happening Term ini seh
 <img src="tidaklogin.png">
 
 <h3>Mock Up Design Web Social Media's Happening Term</h3>
-<p><a href="https://www.figma.com/file/FKZLBoSpiafk9Tgs02jps6/Social-Media's-Happening-Term?node-id=79%3A34">→ Klik di sini untuk melihat mock up desain web</a></p>
+<p><a href="https://github.com/team-M-Ilkomunj2019/HCI-Web-App/blob/main/tampilan%20web%20tugas%203/README.md">→ Klik di sini untuk melihat mock up desain web</a></p>
   
 ## Second Phase Requirement Gathering
 Setelah kami selesai membuat desain berdasarkan keinginan user di kuesioner pertama dan mengobservasinya, kami mengundang para user yang telah mengisi kuesioner pertama 
