@@ -1,0 +1,151 @@
+body{
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+.workspace{
+    width: 1440px;
+    height: 700px;
+    background: rgba(255, 253, 71, 0.7);
+}
+
+.logo{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 514px;
+    top: 60px;
+}
+
+h1{
+    position: relative;
+    font-family: 'shrikhand';
+    font-size: 50px;
+    left: 617px;
+    top: 77px;
+    font-style: italic;
+}
+
+h5{
+    position: relative;
+    font-family: Playfair Display;
+    font-size: 35px;
+    left: 450px;
+    top: 100px;
+    letter-spacing: 0.05em;
+}
+
+h4{
+    position: relative;
+    font-family: Playfair Display;
+    font-size: 15px;
+    left: 470px;
+    top: 110px;
+}
+
+.nama{
+    position: absolute;
+    width: 250px;
+    height: 45px;
+    left: 530px;
+    top: 280px;
+
+    background: rgba(255, 253, 71, 0.7);
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    border-radius: 10px;
+
+    text-align: center;
+    font-family: calibri ;
+}
+
+.password{
+    position: absolute;
+    width: 250px;
+    height: 45px;
+    left: 530px;
+    top: 350px;
+
+    background: rgba(255, 253, 71, 0.7);
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    border-radius: 10px;
+
+    text-align: center;
+    font-family: calibri ;
+}
+
+.login{
+    position: absolute;
+    width: 250px;
+    height: 45px;
+    left: 530px;
+    top: 422px;
+
+    background: #7546F9;
+    border-radius: 50px;
+    text-align: center;
+    font-family: calibri ;
+    font-weight: bold;
+}
+
+.lks{
+    position: absolute;
+    font-family: calibri;
+    font-size: 15px;
+    left: 607px;
+    top: 490px;
+}
+
+.baru{
+    position: absolute;
+    font-family: calibri;
+    font-size: 15px;
+    left: 450px;
+    top: 520px;
+}
+
+footer{
+    position: absolute;
+    width: 1440px;
+    height: 40px;
+    background-color: #ffffff;
+}
+
+.hub{
+    position: absolute;
+    font-family: Playfair Display;
+    font-size: 14px;
+    left: 41.19px;
+    top: 8px;
+    color: #000000;
+}
+
+.ten{
+    position: absolute;
+    font-family: Playfair Display;
+    font-size: 14px;
+    left: 170px;
+    top: 8px;
+    color: #000000;
+}
+
+.kri{
+    position: absolute;
+    font-family: Playfair Display;
+    font-size: 14px;
+    left: 300px;
+    top: 8px;
+    color: #000000;
+}
+
+.cr{
+    position: absolute;
+    font-family: Playfair Display;
+    font-size: 14px;
+    left: 1070px;
+    top: 8px;
+    color: #000000;
+}
+
+
