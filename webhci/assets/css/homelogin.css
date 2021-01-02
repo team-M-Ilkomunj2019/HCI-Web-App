@@ -1,0 +1,397 @@
+body{
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+/* Navbar */
+nav{
+  
+  background: rgba(255, 253, 71, 0.9);
+  }
+  
+  .logo{
+    width: 50px;
+    height: 50px;
+  }
+  
+  h2{
+    position: relative;
+    font-family: 'shrikhand';
+    top: 5px;
+  }
+
+  .nav-item{
+  
+    font-family: Playfair Display;
+    color: black;
+    font-weight: bold;
+  
+   
+    
+    
+  }
+  
+
+/* Jumbotron */
+.jumbotron {
+    background-image: url('../img/home.jpg');
+    background-size: cover;
+    height: 900px;
+    margin-top: -75px;
+
+}
+
+/* Rectangle 4 */
+#box1{
+    position: absolute;
+    width: 754.67px;
+    height: 181px;
+    left: 284px;
+    top: 190px;
+    
+    background: rgba(0, 0, 0, 0.5);
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    }
+
+/* SOCIAL MEDIA’S */
+.jumbotron .display-4 {
+    position: absolute;
+    width: 1382.02px;
+    height: 127px;
+    left: 359.98px;
+    top: 190px;
+    
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 80px;
+    line-height: 107px;
+    color: #FFE600;
+    opacity: 0.7
+    }
+
+/* HAPPENING TERM */
+.jumbotron .display-5 {
+    position: absolute;
+    width: 704.36px;
+    height: 107px;
+    left: 308.64px;
+    top: 264px;
+
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 80px;
+    line-height: 107px;
+    color: #FFFFFF;
+    opacity: 0.7;
+    }
+
+.jumbotron .display-6{
+    position: absolute;
+    width: 1336px;
+    height: 66px;
+    left: 12px;
+    top: 390px;
+
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 33px;
+    text-align: center;
+
+    color: #FFFFFF;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    }
+
+
+
+.yukcaritahu {
+    position: absolute;
+    width: 413px;
+    height: 80px;
+    left: 31px;
+    top: 961px;
+
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 50px;
+    line-height: 80px;
+    /* identical to box height */
+
+    color: #494949;
+   }
+
+hr{
+    position: absolute;
+    width: 1367.01px;
+    height: 0px;
+    left: 28px;
+    top: 1040px;
+
+    border: 4px solid rgba(190, 186, 186, 0.9);
+    }
+
+.fitur1{
+    position: absolute;
+    width: 476px;
+    height: 100px;
+    left: 437px;
+    top: 1120px;
+
+    background: #E47298;
+    border-radius: 10px;
+
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 40px;
+
+    color: #000000 !important;
+    }
+
+  .hitam {
+    color: #000000 !important;
+  }
+
+.fitur2{
+    position: absolute;
+    width: 476px;
+    height: 100px;
+    left: 437px;
+    top: 1260px;
+
+    background: #E47298;
+    border-radius: 10px;
+
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 40px;
+
+    color: #000000;
+    }
+
+.search{
+    position: absolute;
+    width: 204px;
+    height: 26px;
+    left: 437px;
+    top: 1400px;
+
+    font-family: Red Hat Text;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 26px;
+
+    color: #000000;
+    }
+
+.search2{
+    position: absolute;
+    width: 411px;
+    height: 65px;
+    left: 437px;
+    top: 1440px;
+    background: rgba(196, 196, 196, 0.5);
+    border: 3px solid rgba(196, 196, 196, 0.77);
+    box-sizing: border-box;
+    }
+
+::placeholder{
+    position: absolute;
+    font-family: red hat text;
+    font-size: 20px;
+    text-align: center;
+}
+
+.button4{
+    position: absolute;
+    width: 65px;
+    height: 65px;
+    border-radius: 30%;
+    background-color: #FFFFFF;
+    top: 1440px;
+    left: 843px;
+    border-radius: 0px;
+    background: rgba(196, 196, 196, 0.5);
+    border: 3px solid rgba(196, 196, 196, 0.77);
+    box-sizing: border-box;
+    }
+
+.tidak-nemu{
+    position: absolute;
+    width: 400px;
+    height: 26px;
+    left: 437px;
+    top: 1545px;
+
+    font-family: Red Hat Text;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 26px;
+
+    color: #000000;
+    }
+
+.fitur3{
+    position: absolute;
+    width: 476px;
+    height: 100px;
+    left: 437px;
+    top: 1580px;
+
+    background: #FFB6C1;
+    border-radius: 10px;
+
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 40px;
+
+    color: #000000;
+    }
+
+.boy{
+    position: absolute;
+    top: 1080px;
+}
+
+.girl{
+    position: absolute;
+    left: 900px;
+    top: 1100px;
+}
+
+.before-footer{
+    position: absolute;
+    width: 100%;
+    height: 220px;
+    background: rgba(255, 253, 71, 0.9);
+    top: 1800px;
+  }
+  
+  .sun{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 600px;
+    top: 20px;
+  }
+  
+  .nama{
+    position: relative;
+    font-family: 'shrikhand';
+    left: 655px;
+    top: 27px;
+  }
+  
+  .email{
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    left: 580px;
+    top: 82px;
+  }
+  
+  .tim-m{
+    position: absolute;
+    font-family: Playfair Display;
+    font-size: 15px;
+    left: 610px ;
+    top: 83px;
+  }
+  
+  .follow{
+    position: absolute;
+    font-family: Playfair Display;
+    font-size: 15px;
+    left: 637px ;
+    top: 120px;
+  }
+  
+  .fb{
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    left: 615px;
+    top: 155px;
+  }
+  
+  .ig{
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    left: 645px;
+    top: 155px;
+  }
+  
+  .tw{
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    left: 675px;
+    top: 155px;
+  }
+  
+  .yt{
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    left: 705px;
+    top: 155px;
+  }
+  
+  footer{
+    position: absolute;
+    width: 1440px;
+    height: 40px;
+    background-color: #ffffff;
+    top: 2030px;
+  }
+  
+  .hub{
+    position: absolute;
+    font-family: Playfair Display;
+    font-size: 14px;
+    left: 41.19px;
+    top: 8px;
+    color: #000000;
+  }
+  
+  .ten{
+    position: absolute;
+    font-family: Playfair Display;
+    font-size: 14px;
+    left: 170px;
+    top: 8px;
+    color: #000000;
+  }
+  
+  .kri{
+    position: absolute;
+    font-family: Playfair Display;
+    font-size: 14px;
+    left: 300px;
+    top: 8px;
+    color: #000000;
+  }
+  
+  .cr{
+    position: absolute;
+    font-family: Playfair Display;
+    font-size: 14px;
+    left: 1070px;
+    top: 8px;
+    color: #000000;
+  }
+  
+  

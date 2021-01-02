@@ -1,0 +1,166 @@
+body{
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+.ws{
+    width: 1440px;
+    height: 700px;
+    background: rgba(255, 253, 71, 0.7);
+}
+
+.logo{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 540px;
+    top: 60px;
+}
+
+h1{
+    position: relative;
+    font-family: 'shrikhand';
+    font-size: 50px;
+    left: 643px;
+    top: 77px;
+    font-style: italic;
+}
+
+.slogan{
+    position: relative;
+    font-family: Playfair Display;
+    font-size: 25px;
+    left: 570px;
+    top: 90px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.container{
+    position: absolute;
+    width: 350px;
+    height: 400px;
+    left: 500px;
+    top: 230px;
+
+    background: #FFFFFF;
+    border-radius: 30px;
+}
+
+.logo-fb{
+    position: absolute;
+    width: 42px;
+    height: 42px;
+    left: 153px;
+    top: 33px;
+}
+
+h3{
+    position: absolute;
+    font-family: 'Roboto' sans-serif;
+    font-size: 15px;
+    left: 95px;
+    top: 80px;
+}
+
+.box1{
+    position: absolute;
+    width: 280px;
+    height: 40px;
+    left: 35px;
+    top: 120px;
+
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+
+.box2{
+    position: absolute;
+    width: 280px;
+    height: 40px;
+    left: 35px;
+    top: 190px;
+
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+
+::placeholder{
+    position: absolute;
+    font-family: 'Roboto' sans-serif;
+    font-size: 14px;
+    text-align: left;
+    letter-spacing: 0.05em;
+}
+
+.setuju{
+    position: absolute;
+    width: 280px;
+    height: 40px;
+    left: 35px;
+    top: 260px;
+
+    font-family: 'Roboto' sans-serif;
+    font-size: 14px;
+    color: #FFFFFF;
+    letter-spacing: 0.05em;
+
+    background: #7546F9;
+    border-radius: 50px;
+}
+
+h2{
+    position: absolute;
+    font-family: 'Roboto' sans-serif ;
+    font-size: 14px;
+    width: 280px;
+    left: 45px;
+    top: 320px;
+}
+
+footer{
+    position: absolute;
+    width: 1440px;
+    height: 40px;
+    background-color: #ffffff;
+}
+
+.hub{
+    position: absolute;
+    font-family: Playfair Display;
+    font-size: 14px;
+    left: 41.19px;
+    top: 8px;
+    color: #000000;
+}
+
+.ten{
+    position: absolute;
+    font-family: Playfair Display;
+    font-size: 14px;
+    left: 170px;
+    top: 8px;
+    color: #000000;
+}
+
+.kri{
+    position: absolute;
+    font-family: Playfair Display;
+    font-size: 14px;
+    left: 300px;
+    top: 8px;
+    color: #000000;
+}
+
+.cr{
+    position: absolute;
+    font-family: Playfair Display;
+    font-size: 14px;
+    left: 1070px;
+    top: 8px;
+    color: #000000;
+}
+
+
