@@ -34,48 +34,22 @@
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
             <div class="navbar-nav ml-auto">
                 <a class="nav-link" href="<?= base_url(); ?>kuesioner">Kuesioner</a>
-                <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Favorit Saya</a>
-                    <div class="dropdown-menu">
-                        <a class="dropdown-item" href="#">Action</a>
-                        <a class="dropdown-item" href="#">Another action</a>
-                        <a class="dropdown-item" href="#">Something else here</a>
-                        <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="#">Separated link</a>
-                    </div>
-                </li>
+
                 <a class="nav-link active pojokataskanan" href="<?= base_url(); ?>Kontributorlog" role="button">Jadilah kontributor <span class="sr-only">(current)</span></a>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false"><?= $users['email']; ?></a>
                     <div class="dropdown-menu">
-                        <a class="dropdown-item" href="#">Profil Saya</a>
+
                         <a class="dropdown-item" href="<?= base_url(); ?>auth/logout">Keluar</a>
                     </div>
             </div>
     </nav>
 
     <div class="box">
-        <form>
-            <input class="search" type="text" placeholder="Cari kata atau istilah">
-            <input class="button" type="image" src="<?= base_url(); ?>assets/img/loupe.png">
-        </form>
 
-        <!-- Default dropright button -->
-        <div class="btn-group dropright">
-            <button type="button" class="btn btn-secondary " data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                <img src="<?= base_url(); ?>assets/img/filter.svg" alt=""> Filters
-            </button>
-            <div class="dropdown-menu">
-                <!-- Dropdown menu links -->
-                <p class="title"> Sort by : </p>
-                <button class="dropdown-item" type="button">Populer</button>
-                <button class="dropdown-item" type="button">Baru-baru ini</button>
-                <button class="dropdown-item" type="button">Berdasarkan abjad</button>
-                <button class="dropdown-item" type="button">Favorit</button>
-                <div class="dropdown-divider"></div>
-                <a class="dropdown-item" href="#"><img src="<?= base_url(); ?>assets/img/kalender.svg" alt=""> Publish date</a>
-            </div>
-        </div>
+
+
+
 
         <div class="pentingnya-istilah">
             <p class="judulnya"> Boleh Kok Ngikutin Tren<br>

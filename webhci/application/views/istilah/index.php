@@ -22,27 +22,9 @@
     </nav>
 
     <div class="box">
-        <form action="<?= base_url(); ?>search/searching" method="POST">
-            <input class="search" name="cari" type="text" placeholder="Cari kata atau istilah">
-            <input class="button" type="submit" value="cari" placeholder="cari" name="cari">
-        </form>
 
-        <!-- Default dropright button -->
-        <div class="btn-group dropright">
-            <button type="button" class="btn btn-secondary " data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                <img src="<?= base_url(); ?>assets/img/filter.svg" alt=""> Filters
-            </button>
-            <div class="dropdown-menu">
-                <!-- Dropdown menu links -->
-                <p class="title"> Sort by : </p>
-                <button class="dropdown-item" type="button">Populer</button>
-                <button class="dropdown-item" type="button">Baru-baru ini</button>
-                <button class="dropdown-item" type="button">Berdasarkan abjad</button>
-                <button class="dropdown-item" type="button">Favorit</button>
-                <div class="dropdown-divider"></div>
-                <a class="dropdown-item" href="#"><img src="<?= base_url(); ?>assets/img/kalender.svg" alt=""> Publish date</a>
-            </div>
-        </div>
+
+
 
         <div class="istilah-tren">
             <p class="judulnya"> Istilah-istilah Tren Untuk Anda <br> <span style="font-size: 15px; margin-top: 0px; padding-top:0%; "> Login untuk dapat mengakses semua istilah </span> </p>

@@ -33,21 +33,12 @@
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
             <div class="navbar-nav ml-auto">
                 <a class="nav-link" href="<?= base_url(); ?>kuesioner">Kuesioner</a>
-                <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Favorit Saya</a>
-                    <div class="dropdown-menu">
-                        <a class="dropdown-item" href="#">Action</a>
-                        <a class="dropdown-item" href="#">Another action</a>
-                        <a class="dropdown-item" href="#">Something else here</a>
-                        <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="#">Separated link</a>
-                    </div>
-                </li>
+
                 <a class="nav-link active pojokataskanan" href="<?= base_url(); ?>Kontributorlog" role="button">Jadilah kontributor <span class="sr-only">(current)</span></a>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false"><?= $users['email']; ?></a>
                     <div class="dropdown-menu">
-                        <a class="dropdown-item" href="#">Profil Saya</a>
+
                         <a class="dropdown-item" href="<?= base_url(); ?>auth/logout">Keluar</a>
                     </div>
                 </li>
@@ -61,8 +52,7 @@
 
     <div class="utama">
         <img class="girl" src="<?= base_url(); ?>assets/img/girl.png" alt="">
-        <input type="image" class="redlove" src="<?= base_url(); ?>assets/img/redlove.png">
-        <p class="fav"> Tambahkan kata ke Favorit Saya </p>
+
         <p class="opmind"> OPEN-MINDED </p>
         <p class="teks">
             1. Menjadi penerima macam-macam ide, argumen, dan informasi untuk
@@ -71,7 +61,7 @@
             2. Dapat berempati dan dapat menempatkan dirinya di posisi orang lain, walaupun ia tidak berasal dari kelompok tersebut, tidak mengalami kejadian serupa, tetapi ia tetap mencoba mengerti “Gimana ya rasanya jadi dia...” <br>
             3. Melihat suatu narasi dari berbagai perspektif.
         </p>
-        <button class="next-page"> Next page >> </button>
+        <a href="<?= base_url('openminded2log'); ?> "> <button class="next-page"> Next page >> </button></a>
     </div>
 
     <div class="before-footer">

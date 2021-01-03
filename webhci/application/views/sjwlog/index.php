@@ -33,21 +33,12 @@
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
             <div class="navbar-nav ml-auto">
                 <a class="nav-link" href="<?= base_url(); ?>kuesioner">Kuesioner</a>
-                <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Favorit Saya</a>
-                    <div class="dropdown-menu">
-                        <a class="dropdown-item" href="#">Action</a>
-                        <a class="dropdown-item" href="#">Another action</a>
-                        <a class="dropdown-item" href="#">Something else here</a>
-                        <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="#">Separated link</a>
-                    </div>
-                </li>
+
                 <a class="nav-link active pojokataskanan" href="<?= base_url(); ?>Kontributorlog" role="button">Jadilah kontributor <span class="sr-only">(current)</span></a>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false"><?= $users['email']; ?></a>
                     <div class="dropdown-menu">
-                        <a class="dropdown-item" href="#">Profil Saya</a>
+
                         <a class="dropdown-item" href="<?= base_url(); ?>auth/logout">Keluar</a>
                     </div>
                 </li>
@@ -63,9 +54,7 @@
         <img class="sjw" src="<?= base_url(); ?>assets/img/sjw.jpg" alt="">
         <a class="sumber" href="https://www.melekpolitik.com/2019/10/17/sjw-makhluk-apakah-itu/"> melekpolitik.com </a>
 
-        <img class="redlove" src="<?= base_url(); ?>assets/img/redlove.png">
 
-        <p class="fav"> Tambahkan kata ke Favorit Saya </p>
         <?= $this->session->flashdata('oke'); ?>
         <p class="opmind"> SJW </p>
         <p class="teks">

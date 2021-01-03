@@ -33,21 +33,12 @@
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
             <div class="navbar-nav ml-auto">
                 <a class="nav-link" href="<?= base_url(); ?>kuesioner">Kuesioner</a>
-                <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Favorit Saya</a>
-                    <div class="dropdown-menu">
-                        <a class="dropdown-item" href="#">Action</a>
-                        <a class="dropdown-item" href="#">Another action</a>
-                        <a class="dropdown-item" href="#">Something else here</a>
-                        <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="#">Separated link</a>
-                    </div>
-                </li>
+
                 <a class="nav-link active pojokataskanan" href="<?= base_url(); ?>Kontributorlog" role="button">Jadilah kontributor <span class="sr-only">(current)</span></a>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false"><?= $users['email']; ?></a>
                     <div class="dropdown-menu">
-                        <a class="dropdown-item" href="#">Profil Saya</a>
+
                         <a class="dropdown-item" href="<?= base_url(); ?>auth/logout">Keluar</a>
                     </div>
                 </li>
@@ -64,8 +55,7 @@
         <a class="sumber1" href="https://pin.it/5wqe3Da"> The Minds Journal</a>
         <img class="toxicpeople" src="<?= base_url(); ?>assets/img/toxicpeople.jpg" alt="">
         <a class="sumber2" href="https://www.instagram.com/ridingincabswithboys/"> @ridingincabswithboys </a>
-        <input type="image" class="redlove" src="<?= base_url(); ?>assets/img/redlove.png">
-        <p class="fav"> Tambahkan kata ke Favorit Saya </p>
+
         <p class="opmind"> TOXIC </p>
         <p class="teks">
             Toxic ini merupakan istilah untuk seseorang yang "beracun" atau seseorang tersebut memiliki sifat yang menyusahkan dan merugikan orang lain, baik secara fisik maupun emosional. Namun kata "toxic" ini bukan hanya untuk mendeskripsikan kepribadian seseorang saja, dalam berhubungan dengan orang lain, berpacaran misalnya, jika hubungan tersebut sifatnya menyakiti atau merugikan salah satu pihak maupun keduanya, maka hubungan tersebut disebut dengan "toxic relationship"

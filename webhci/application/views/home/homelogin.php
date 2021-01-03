@@ -36,7 +36,6 @@
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Welcome, <?= $users['email']; ?></a>
                     <div class="dropdown-menu">
-                        <a class="dropdown-item" href="#">Profil Saya</a>
                         <a class="dropdown-item" href="<?= base_url(); ?>auth/logout">Keluar</a>
                     </div>
             </div>

@@ -22,27 +22,9 @@
     </nav>
 
     <div class="box">
-        <form>
-            <input class="search" type="text" placeholder="Cari kata atau istilah">
-            <input class="button" type="image" src="<?= base_url(); ?>assets/img/loupe.png">
-        </form>
 
-        <!-- Default dropright button -->
-        <div class="btn-group dropright">
-            <button type="button" class="btn btn-secondary " data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                <img src="<?= base_url(); ?>assets/img/filter.svg" alt=""> Filters
-            </button>
-            <div class="dropdown-menu">
-                <!-- Dropdown menu links -->
-                <p class="title"> Sort by : </p>
-                <button class="dropdown-item" type="button">Populer</button>
-                <button class="dropdown-item" type="button">Baru-baru ini</button>
-                <button class="dropdown-item" type="button">Berdasarkan abjad</button>
-                <button class="dropdown-item" type="button">Favorit</button>
-                <div class="dropdown-divider"></div>
-                <a class="dropdown-item" href="#"><img src="<?= base_url(); ?>assets/img/kalender.svg" alt=""> Publish date</a>
-            </div>
-        </div>
+
+
 
         <div class="pentingnya-istilah">
             <p class="judulnya"> Boleh Kok Ngikutin Tren<br>

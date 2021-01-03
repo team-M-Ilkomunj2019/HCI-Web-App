@@ -34,19 +34,12 @@
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
             <div class="navbar-nav ml-auto">
                 <a class="nav-link" href="<?= base_url(); ?>kuesioner">Kuesioner</a>
-                <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Favorit Saya</a>
-                    <div class="dropdown-menu">
-                        <?php foreach ($data as $cicel) : ?>
-                            <?= anchor('darkjokelog', '<div class="dropdown-item">' . $cicel->katafavorit . '</div>'); ?>
-                        <?php endforeach; ?>
-                    </div>
-                </li>
+
                 <a class="nav-link active pojokataskanan" href="<?= base_url(); ?>Kontributorlog" role="button">Jadilah kontributor <span class="sr-only">(current)</span></a>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false"><?= $users['email']; ?></a>
                     <div class="dropdown-menu">
-                        <a class="dropdown-item" href="#">Profil Saya</a>
+
                         <a class="dropdown-item" href="<?= base_url(); ?>auth/logout">Keluar</a>
                     </div>
                 </li>
@@ -61,9 +54,7 @@
     <div class="utama">
         <img class="dark" src="<?= base_url(); ?>assets/img/dark.jpg" alt="">
         <a class="sumber" href="https://explosm.net/comics/5468/">explosm.net</a>
-        <?php $kata = "DarkJoke"; ?>
-        <?= anchor('Favorit/katafavorit/' . $kata, '<img type="submit" class="redlove" src="assets/img/redlove.png" </div>'); ?>
-        <p class="fav"> Tambahkan kata ke Favorit Saya </p>
+
         <p class="opmind"> Dark Jokes </p>
         <p class="teks">
             1. Dark Jokes berarti humor gelap yang umumnya komedi dark jokes ini menjurus pada topik yang sebenarnya membuat kamu tidak nyaman karena komedinya berisi hal-hal yang tidak mengenakkan. <br>

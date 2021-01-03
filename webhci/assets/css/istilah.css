@@ -93,11 +93,12 @@ body{
   
   .button{
     position: absolute;
-    width: 30px;
+    width: 50px;
+
     height: 30px;
     border: 2px solid;
-    color: #ffffff;
-    background-color: #ffffff;
+   color: #EDEAEA;
+    background-color: #000000;
     left: 900px;
     top: 20px;
   }
