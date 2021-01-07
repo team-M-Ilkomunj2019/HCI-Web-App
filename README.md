@@ -1,4 +1,4 @@
-# ASSIGNMENT 3 HUMAN COMPUTER INTERACTION (HCI)
+# FINAL PROJECT HUMAN COMPUTER INTERACTION (HCI)
 
 ## TEAM M
 1. Andira Azzahra (1313619006) as <a href="https://github.com/baabyygalll"> baabyygalll <a/>
