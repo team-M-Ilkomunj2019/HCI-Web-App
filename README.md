@@ -7,5 +7,8 @@
   
   
 ## Final Report
-<a href="
+<a href="https://github.com/team-M-Ilkomunj2019/HCI-Web-App/blob/source/FinalReport-Team-M.pdf">Click Here</a> to view final report of final project
+
+## Site Deployment Link
+<a href="https://socialmediahappeningterm.xyz/">https://socialmediahappeningterm.xyz/</a>
 
